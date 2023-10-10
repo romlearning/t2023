@@ -2,6 +2,11 @@
 
 using namespace std;
 
+void f() 
+{
+	cout << "A function f()" << endl;
+}
+
 int main() 
 {
 	cout << "Main branch prog!" << endl;
